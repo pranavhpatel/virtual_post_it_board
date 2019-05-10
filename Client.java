@@ -65,8 +65,6 @@ import javax.swing.JTextArea;
 /**
  * 
  * @author Pranav Patel and Duncan Wilson
- * @ID 150380910 and 150322290
- * @Purpose class for Assignment 1
  *
  */
 public class Client {
